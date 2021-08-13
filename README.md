@@ -1,6 +1,6 @@
 # OCR
 
-This project is created using easy ocr librqary with python base.
+This project is created using easy OCR librqary with python base.
 
 The main advantage of this project is the gui interface, that opens a windows explorer window.
 
